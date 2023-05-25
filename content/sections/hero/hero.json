@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
-  "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
-  },
-  "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
-  },
-  "title": "I'm a Gatsby Starter",
-  "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
-  },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
-  }
+    "intro": "Hello",
+    "heroPhoto": {
+        "src": "../../images/lego-dummy.png",
+        "alt": "My Photo"
+    },
+    "image": {
+        "src": "../../images/waving-hand.png",
+        "alt": "Waving Hand Emoji"
+    },
+    "title": "I'm Ihilesen Egbokhare",
+    "subtitle": {
+        "prefix": "I'm a data scientist, specialising in analysis, visualisation and interpretation ",
+        "highlight": "especially of health and consumer data",
+        "suffix": "."
+    },
+    "description": "Public Health | Health Promotion | Data Science | Health Analyticss.",
+    "socialProfiles": {
+        "from": ["LinkedIn", "Medium", "Github", "Mail"],
+        "showIcons": false
+    }
 }
