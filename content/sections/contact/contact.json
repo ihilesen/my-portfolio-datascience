@@ -1,10 +1,10 @@
 {
-    "name": "Gatsby Starter For Portfolio Minimal",
+    "name": "My Professional Portfolio",
     "email": "contact@ihilesen.tech",
-    "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+    "description": "To contact and for enquiries, send an email to contact@ihilesen.tech.",
     "image": {
-        "src": "../../images/favicon.png",
-        "alt": "Gatsby Logo"
+        "src": "../../images/2.png",
+        "alt": "ihis Logo"
     },
     "socialProfiles": {
         "from": ["LinkedIn", "Medium", "Github", "Mail"],

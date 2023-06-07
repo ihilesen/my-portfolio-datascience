@@ -10,11 +10,11 @@
     },
     "title": "I'm Ihilesen Egbokhare",
     "subtitle": {
-        "prefix": "I'm a data scientist, specialising in analysis, visualisation and interpretation ",
-        "highlight": "especially of health and consumer data",
+        "prefix": " Public health data scientist: analysis, visualisation and interpretation of data.",
+        "highlight": " Focusing on health, environment and consumer data",
         "suffix": "."
     },
-    "description": "Public Health | Health Promotion | Data Science | Health Analyticss.",
+    "description": "Public Health | Health Promotion | Data Science | Health Analytics.",
     "socialProfiles": {
         "from": ["LinkedIn", "Medium", "Github", "Mail"],
         "showIcons": false

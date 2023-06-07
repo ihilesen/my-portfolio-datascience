@@ -7,7 +7,7 @@
     "description": "A central location for all my projects in public health and data science.",
     "author": "Ihilesen Egbokhare",
     "avatar": "../content/images/gatsby.png",
-    "bio": "I am a data scientist with an interest in healthcare and community projects.",
+    "bio": "Public health data scientist: analysis, visualisation and interpretation of data.",
     "social": {
       "dribbble": "https://dribbble.com/ihilesen",
       "github": "https://github.com/ihilesen",
@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Ihilesen's Portfolio" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Ihilesen Public health practitioner.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
