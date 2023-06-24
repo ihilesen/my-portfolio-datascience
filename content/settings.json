@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/Ihilesen Public health practitioner.pdf"
+        "url": "/"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
