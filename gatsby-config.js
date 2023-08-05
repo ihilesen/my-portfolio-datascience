@@ -9,8 +9,8 @@ module.exports = {
           siteName: "My Minimal Portfolio", // Used in manifest.json
           shortName: "Portfolio", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
-          backgroundColor: "#FFFFFF", // Used in manifest.json
-          themeColor: "#000000", // Used in manifest.json
+          backgroundColor: "#121010", // Used in manifest.json
+          themeColor: "#FFFFFF", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },
         contentDirectory: "./content",
