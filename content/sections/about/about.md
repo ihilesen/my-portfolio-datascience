@@ -11,4 +11,4 @@ I am passionate about leveraging on information technology and data to ensure im
 
 I am building machine learning models to be implemented in improving healthcare systems :)
 
-While finetuning my python skills, i am currently freelancing in minor projects involving population health datasets.
+I am currently interested in data science projects .
