@@ -1,7 +1,6 @@
 module.exports = {
   plugins: [
     {
-      pathPrefix: "/reponame"
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
         siteUrl: "https://ihilesen.tech/", // Used for sitemap generation
