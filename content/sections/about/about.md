@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/072A1090.jpeg"
+imageSrc: "../../images/ihilesen_potrait_prop.jpeg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
