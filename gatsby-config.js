@@ -5,7 +5,7 @@ module.exports = {
       options: {
         siteUrl: "https://ihilesen.tech/", // Used for sitemap generation
         manifestSettings: {
-          favicon: "./content/images/1.png", // Path is relative to the root
+          favicon: "./content/images/logo_brown.png", // Path is relative to the root
           siteName: "Ihilesen's Portfolio", // Used in manifest.json
           shortName: "Ihilesen", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
