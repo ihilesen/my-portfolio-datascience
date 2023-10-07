@@ -3,12 +3,8 @@ imageSrc: "../../images/ihilesen_potrait_prop.jpeg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-My name is Ihilesen Egbokhare. 
+Ihilesen Egbokhare is a graduate of public health with certifications in data science and data analysis!
 
-I am a graduate of public health with certifications in data science and data analysis!
+She is passionate about leveraging on information technology and data to ensure improved community health.
 
-I am passionate about leveraging on information technology and data to ensure improved community health.
-
-I am building machine learning models to be implemented in improving healthcare systems :)
-
-I am currently interested in data science projects .
+she is engaged in building machine learning models to be implemented in improving healthcare systems :)
