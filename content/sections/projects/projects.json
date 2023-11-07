@@ -24,9 +24,9 @@
     },
     {
       "visible": true,
-      "category": "🧰 CERTIFICATIONS",
-      "title": "Academic and Professional Certifications!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding.",
+      "category": "DATASETS",
+      "title": "Data scince and analysis!",
+      "description": "Datasets for analysis and visualizations.",
       "tags": ["Custom Sections", "Easy-2-Use"],
       "image": {
         "src": "../../images/_Logo.jpg",
