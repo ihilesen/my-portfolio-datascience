@@ -16,7 +16,7 @@ export default function IndexPage() {
       <Seo title="Ihilesen Egbokhare" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Projects" sources={['Github']} />
+        {/* <ArticlesSection sectionId="articles" heading="Latest Projects" sources={['Github']} /> */}
         <AboutSection sectionId="about" heading="About Ihilesen Egbokhare" />
         <InterestsSection sectionId="details" heading="Details" />
         <ProjectsSection sectionId="features" heading="Built-in Features" />
