@@ -58,6 +58,10 @@
         {
           "type": "github",
           "url": "https://github.com/ihilesen"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
         }
       ]
     }
