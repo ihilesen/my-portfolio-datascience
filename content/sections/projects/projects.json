@@ -42,7 +42,29 @@
           "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
         }
       ]
-    }
+    },
+    {
+      "visible": true,
+      "category": "Data visualisations",
+      "title": "charts and graphs",
+      "description": "data visualisation using Matplotlib and seabourne.",
+      "tags": ["Python", "portfolio", "visualisation"],
+      "image": {
+        "src": "../../images/IMG_2670.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/ihilesen"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/ihilesen"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },
   ],
   "button": {
     "visible": true,
