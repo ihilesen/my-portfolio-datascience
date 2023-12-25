@@ -52,16 +52,16 @@
       "image": {
         "src": "../../images/movie data wordcloud.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/ihilesen"
+        "linkTo": "https://colab.research.google.com/drive/1E-foImdku3VTnbS0VBy1XKLGuGdrwmYr#scrollTo=AtjMvaZXpPPs"
       },
       "links": [
         {
-          "type": "github",
+          "type": "Google colab",
           "url": "https://github.com/ihilesen"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://colab.research.google.com/drive/1E-foImdku3VTnbS0VBy1XKLGuGdrwmYr#scrollTo=AtjMvaZXpPPs"
         }
       ]
     }
