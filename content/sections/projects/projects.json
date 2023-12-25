@@ -27,7 +27,7 @@
       "category": "DATASETS",
       "title": "Data science and analysis!",
       "description": "Datasets for analysis and visualizations.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "tags": ["Python", "Tableau"],
       "image": {
         "src": "../../images/_Logo.jpg",
         "alt": "Extendable Layout"
