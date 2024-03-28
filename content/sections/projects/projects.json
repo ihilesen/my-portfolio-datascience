@@ -2,6 +2,28 @@
   "projects": [
     {
       "visible": true,
+      "category": "DATASETS",
+      "title": "Movies",
+      "description": "Anlysing movies.",
+      "tags": ["Python", "portfolio"],
+      "image": {
+        "src": "../../images/movie.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/ihilesen"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://replit.com/@IhilesenEgbokha"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Python projects",
       "title": "Python code challenges",
       "description": "Python projects for 100 days of code.",
